@@ -33,6 +33,8 @@
 
 - [Vocalist](https://github.com/ookamitai/Vocalist)
 
+- NullPointerException
+
 </tr></td>
 
 <tr><td>
@@ -40,7 +42,9 @@
 ## 认识我
 
 - Discord: @ookamitai
+
 - QQ: 3271099361
+  
 
 </tr></td>
 
