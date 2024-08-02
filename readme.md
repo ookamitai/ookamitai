@@ -19,7 +19,7 @@
 
 ## 编程能力
 
-- 能够写（也仅限于能够）Python, C / C++, Swift, Java。
+- 能够写（也仅限于能够）Python, C / C++, Swift, Java, Rust。
   
 - 学的内容都杂而不精。
 
